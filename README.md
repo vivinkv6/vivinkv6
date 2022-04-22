@@ -1,12 +1,12 @@
 ![MasterHead](https://as1.ftcdn.net/v2/jpg/01/94/01/00/1000_F_194010093_9tC5JNVsiEOlVDs2F5Y6d0paYrdWTdbT.jpg)
 <h1 align="center">Hi 👋, I'm Vivin kv</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from Kerala</h3>
 <img align="right" alt="coding" width="400" src="https://www.aagnia.com/wp-content/uploads/2021/12/39998-web-development.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vivinkv6&label=Profile%20views&color=0e75b6&style=flat" alt="vivinkv6" /> </p>
 
 - 🔭 I’m currently working on [QuizApp](https://github.com/vivinkv6/QuizApp)
 
-- 🌱 I’m currently learning **React JS**
+- 🌱 I’m currently learning **MERN STACK**
 
 - 💬 Ask me about **HTML,CSS,JS,BOOSTRAP5,JQUERY**
 
