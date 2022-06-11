@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [BMI Calculator](https://github.com/vivinkv6/BMI-Calculator)
 
-- 🌱 I’m currently learning **MERN STACK**
+- 🌱 I’m currently learning **Redux**
 
 - 💬 Ask me about **Javascript**
 
