@@ -10,7 +10,9 @@
 
 - 💬 Ask me about **Javascript**
 
-- 📫 How to reach me **vivinkv851@gmail.com**
+- 📫 How to reach me<br>
+**vivinkv851@gmail.com**<br>
+**https://www.linkedin.com/in/vivin-kv-84b76a244/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
