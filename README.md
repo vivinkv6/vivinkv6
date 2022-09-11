@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [expense Tracker](https://github.com/vivinkv6/expense-tracker)
 
-- 🌱 I’m currently learning **Redux**
+- 🌱 I’m currently learning **React-Typescript**
 
 - 💬 Ask me about **Javascript**
 
