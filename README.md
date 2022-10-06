@@ -4,7 +4,7 @@
 <img align="right" alt="coding" width="400" src="https://www.aagnia.com/wp-content/uploads/2021/12/39998-web-development.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vivinkv6&label=Profile%20views&color=0e75b6&style=flat" alt="vivinkv6" /> </p>
 
-- 🔭 I’m currently working on [expense Tracker](https://github.com/vivinkv6/expense-tracker)
+- 🔭 I’m currently working on [hopital-availabilty-frontend](https://github.com/Trebuchet-ltd/hopital-availabilty-frontend)
 
 - 🌱 I’m currently learning **Next JS**
 
