@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [hopital-availabilty-frontend](https://github.com/Trebuchet-ltd/hopital-availabilty-frontend)
 
-- 🌱 I’m currently learning   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="30" height="30"/> 
+- 🌱 I’m currently learning  <b>Node JS</b>
 
 - 💬 Ask me about  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/>
 
