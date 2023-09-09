@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vivinkv6&label=Profile%20views&color=0e75b6&style=flat" alt="vivinkv6" /> </p>
 
  # 💫 About Me:
-🔭 I’m currently working on Internal Mark<br>🌱 I’m currently learning MERN Stack<br>💬 Ask me about JavaScript, React<br>
+🔭 I’m currently working on Coding Doubts Platform<br>🌱 I’m currently learning MERN Stack<br>💬 Ask me about JavaScript, React<br>
 
 
 ## 🌐 Socials:
