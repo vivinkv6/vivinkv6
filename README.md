@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Vivin kv</h1>
 <h1 align="center">A Passionate FrontEnd Developer from INDIA</h1>
 <h2 align="center">Trying to become a MERN Stack Developer</h2>
-<img align="right" alt="coding" width="400" src="https://www.aagnia.com/wp-content/uploads/2021/12/39998-web-development.gif">
+<img align="right" alt="coding" width="500"  src="https://miro.medium.com/v2/resize:fit:679/1*yw0TnheAGN-LPneDaTlaxw.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vivinkv6&label=Profile%20views&color=0e75b6&style=flat" alt="vivinkv6" /> </p>
 
  # 💫 About Me:
