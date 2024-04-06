@@ -1,12 +1,12 @@
-![MasterHead](https://camo.githubusercontent.com/48ec00ed4c84e771db4a1db90b56352923a8d644452a32b434d68e97006c9337/68747470733a2f2f63686b736b696c6c732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30342f504e432d416e696d617465642d42616e6e6572732e676966)
+
 <h1 align="center">Hi 👋, I'm Vivin kv</h1>
-<h1 align="center">A Passionate FrontEnd Developer from INDIA</h1>
-<h2 align="center">Trying to become a MERN Stack Developer</h2>
+<h1 align="center">A Passionate MERN Stack Developer from INDIA</h1>
+<h2 align="center">Trying to become a Software Engineer</h2>
 <img align="right" alt="coding" width="500"  src="https://miro.medium.com/v2/resize:fit:679/1*yw0TnheAGN-LPneDaTlaxw.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vivinkv6&label=Profile%20views&color=0e75b6&style=flat" alt="vivinkv6" /> </p>
 
  # 💫 About Me:
-🔭 I’m currently working on Coding Doubt<br>🌱 I’m currently learning MERN Stack<br>💬 Ask me about JavaScript, React<br>
+🔭 I’m currently working on techconnecthub<br>🌱 I’m currently learning Microservices<br>💬 Ask me about JavaScript, React<br>
 
 
 ## 🌐 Socials:
