@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Vivin kv</h1>
-<h1 align="center">A Passionate MERN Stack Developer from INDIA</h1>
-<h2 align="center">Trying to become a Software Engineer</h2>
+<h1 align="center">A Passionate Software Developer from INDIA</h1>
+<img align="left" alt="coding" style="width:100%;"  src="https://github.com/user-attachments/assets/5c024fc2-3364-4766-8862-d6aaf56f4987">
 <img align="right" alt="coding" width="500"  src="https://miro.medium.com/v2/resize:fit:679/1*yw0TnheAGN-LPneDaTlaxw.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vivinkv6&label=Profile%20views&color=0e75b6&style=flat" alt="vivinkv6" /> </p>
 
